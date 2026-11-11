@@ -17,6 +17,6 @@ Deskfleet is available in public beta.
 - [Windows Connector](https://app.deskfleet.dev/downloads/deskbot-worker-windows.zip)
 - [macOS Connector](https://app.deskfleet.dev/downloads/deskbot-worker-macos.zip)
 - [Chat Kit](https://app.deskfleet.dev/downloads/deskbot-chat-control.zip)
-- [Connector gn08.2.55 release notes](https://github.com/deskfleet/.github/blob/main/releases/gn08.2.55.md)
+- [Latest Connector release, versioned downloads and checksums](https://github.com/deskfleet/connector/releases/latest)
 
 These download links follow the current release. Deskfleet's [signed update feed](https://updates.deskfleet.dev/latest.json) records its version, source revision and checksums; the [detached signature](https://updates.deskfleet.dev/latest.json.sig) is published alongside it.
