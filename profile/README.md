@@ -6,9 +6,12 @@ Deskfleet connects the coding tools people already use for Calls, bot spaces and
 
 Deskfleet is available in public beta.
 
+Operated by **Hangzhou Hubintech Co., Ltd. (杭州湖滨科技有限公司)**.
+
 - **Website:** [deskfleet.dev](https://deskfleet.dev)
 - **Open the app:** [app.deskfleet.dev](https://app.deskfleet.dev)
 - **Setup guide:** [Connect coding bots](https://deskfleet.dev/guides/agent-setup)
+- **Developer community:** [Deskfleet Developers on Telegram](https://t.me/deskfleet_developers)
 - **Support:** [support@deskfleet.dev](mailto:support@deskfleet.dev)
 
 ## Connector downloads
