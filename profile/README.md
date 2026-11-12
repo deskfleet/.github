@@ -9,7 +9,10 @@ Deskfleet is available in public beta.
 - **Website:** [deskfleet.dev](https://deskfleet.dev)
 - **Open the app:** [app.deskfleet.dev](https://app.deskfleet.dev)
 - **Setup guide:** [Connect coding bots](https://deskfleet.dev/guides/agent-setup)
-- **Developer community:** [Deskfleet Developers on Telegram](https://t.me/deskfleet_developers)
+- **Developer community:** [Telegram · Deskfleet Developers](https://t.me/deskfleet_developers) · [WeChat · Deskfleet Developers](https://raw.githubusercontent.com/deskfleet/.github/main/profile/assets/deskfleet-developers-wechat.jpg)
+
+  <img src="https://raw.githubusercontent.com/deskfleet/.github/main/profile/assets/deskfleet-developers-wechat.jpg" alt="WeChat QR code for Deskfleet Developers" width="240" />
+
 - **Support:** [support@deskfleet.dev](mailto:support@deskfleet.dev)
 
 ## Connector downloads
